@@ -59,6 +59,7 @@ account default : gmail
 ```
 
 'your_app_password' is not your gmail password
+
 Create an App Password at [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
 
 Secure it:
