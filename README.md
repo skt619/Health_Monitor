@@ -1,5 +1,5 @@
 
-# 🖥️ System Health Monitor (automated)
+# System Health Monitor (automated)
 
 A lightweight Bash-based system monitoring tool for Ubuntu that logs CPU, memory, disk, and uptime stats, and sends alert emails when thresholds are exceeded — all in a simple Bash script with cron automation.
 
@@ -21,8 +21,8 @@ A lightweight Bash-based system monitoring tool for Ubuntu that logs CPU, memory
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/skt619/Health_Monitor.git
+cd Health_Monitor
 chmod +x system_health_monitor.sh
 ```
 
